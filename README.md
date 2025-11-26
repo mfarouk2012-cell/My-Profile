@@ -32,7 +32,7 @@ My engineering background and project management expertise provide me with a uni
   - 🔭 **Currently working on:** Dashboards & ML-driven insights  
   - 🌱 **Currently learning:** Deep Learning & Cloud for Data Science  
   - 💼 **Open to:** Data Analysis, Science roles & collaborations  
-  - 📫 **Reach me at:** abdelrahmenelashry@email.com 
+  - 📫 **Reach me at:** m_farouk2012@gmail.com 
 
 </div>
 
