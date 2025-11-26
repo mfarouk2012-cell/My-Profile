@@ -16,6 +16,7 @@
 
 <h3 align="center"> AI & ML Enthusiast | Data Analyst | Mathematician</h3>
 
+
 <div align="center">
 
 
@@ -36,11 +37,11 @@
 
 </div>
 
-###
+
 
 
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTNpOGZmenJkODk5NzA5eHVsOW90Y3g5bmV2OW00OGg1bGExczB4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XaLnoepP2IwFnUXdvb/giphy.gif"/>
-###
+
 <div align="left">
   
 I'm a Communication Engineer (graduated in 1994) with extensive experience in consulting as a Senior Electrical Engineer and MEP Manager, holding PMP and RMP certifications from PMI. 
