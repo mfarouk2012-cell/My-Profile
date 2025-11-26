@@ -6,10 +6,10 @@
 <h3 align="center"> AI & ML Enthusiast | Data Analyst | Mathematician</h3>
 
 
-<p align="center">
+
   [![Linkedin Badge](https://img.shields.io/badge/-mohammedfarouk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-farouk-153baa44/)](https://www.linkedin.com/in/mohammed-farouk-153baa44/)
   [![Gmail Badge](https://img.shields.io/badge/-m.farouk2012-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.farouk2012@gmail.com)](mailto:m.farouk2012@gmail.com)
-</p>
+
 ## 🚀 About Me  
 
 </div>
