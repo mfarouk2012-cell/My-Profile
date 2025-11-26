@@ -1,10 +1,16 @@
 
-<h1 align="center" style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
-  Hello, I'm Mohamed Farouk
+<h1 align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Mohamed+Farouk!;" />
 </h1>
 
+<div align="center" style="background-color: #000000; padding: 30px 0; width: 100%;">
+  <h1>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Mohamed+Farouk!;" />
+  </h1>
+</div>
 
-<h1 align="center">Hello, I'm Mohamed Farouk</h1>
 
 <h3 align="center">PMP, PMI-RMP | MEP manager | Sr. Electrical Engineer</h3>
 
