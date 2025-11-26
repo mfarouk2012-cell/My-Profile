@@ -1,6 +1,9 @@
-# Hi I'm Mohamed Farouk 👋
 
-<h3 align="center">Data Analyst | AI & ML Enthusiast | Mathematician</h3>
+<h1 align="center">Hello, I'm Mohamed Farouk</h1>
+
+<h3 align="center">PMP, PMI-RMP | MEP manager| Sr. Electrical Engineer </h3>
+
+<h3 align="center">Data Analyst | Mathematician | AI & ML Enthusiast </h3>
 
 Data Analyst | AI & ML Enthusiast | Mathematician
 
@@ -66,5 +69,4 @@ Data Analyst | AI & ML Enthusiast | Mathematician
 <img src="https://streak-stats.demolab.com?user=mfarouk2012-cell&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfarouk2012-cell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfarouk2012-cell&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfarouk2012-cell&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=mfarouk2012-cell&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="github trophies" />
