@@ -1,4 +1,9 @@
 
+<h1 align="center" style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
+  Hello, I'm Mohamed Farouk
+</h1>
+
+
 <h1 align="center">Hello, I'm Mohamed Farouk</h1>
 
 <h3 align="center">PMP, PMI-RMP | MEP manager | Sr. Electrical Engineer</h3>
@@ -8,8 +13,12 @@
 <div align="center">
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-mohammedfarouk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-farouk-153baa44/)](https://www.linkedin.com/in/mohammed-farouk-153baa44/)
+[![Linkedin Badge](https://img.shields.io/badge/-mohammedfarouk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-farouk-153baa44/)](https://www.linkedin.com/in/mohammed-farouk-153baa44/)
   [![Gmail Badge](https://img.shields.io/badge/-m.farouk2012-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.farouk2012@gmail.com)](mailto:m.farouk2012@gmail.com)
+
+  [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/yourusername)](https://www.kaggle.com/yourusername)
+  [![Colab Badge](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google-Colab&logoColor=white&link=https://colab.research.google.com/)](https://colab.research.google.com/)
+
 
 
 </div>
