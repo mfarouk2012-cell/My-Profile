@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Mohamed Farouk</h1>
 
-<h3 align="center">PMP, PMI-RMP | MEP manager | Sr. Electrical Engineer |</h3>
+<h3 align="center">PMP, PMI-RMP | MEP manager | Sr. Electrical Engineer</h3>
 
 <h3 align="center"> AI & ML Enthusiast | Data Analyst | Mathematician</h3>
 
@@ -9,6 +9,32 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mohammedfarouk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-farouk-153baa44/)](https://www.linkedin.com/in/mohammed-farouk-153baa44/)
 [![Gmail Badge](https://img.shields.io/badge/-m.farouk2012-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:m.farouk2012@gmail.com)](mailto:m.farouk2012@gmail.com)
 
+
+## 🚀 About Me  
+
+</div>
+
+###
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+
+###
+
+<div align="left">
+  
+I'm a Communication Engineer (graduated in 1994) with extensive experience in consulting as a Senior Electrical Engineer and MEP Manager, holding PMP and RMP certifications from PMI. 
+
+Currently, I'm a Senior Data Analyst passionate about **Data Science, Machine Learning, and Artificial Intelligence**, with the ambition to grow into a **Data Scientist**.  
+With a strong enthusiasm for **Mathematics, Statistics, and Computer Science**, I enjoy unlocking the power of data to deliver meaningful insights.  
+
+My engineering background and project management expertise provide me with a unique perspective in solving complex data problems and driving data-informed decisions.  
+  
+  - 🔭 **Currently working on:** Dashboards & ML-driven insights  
+  - 🌱 **Currently learning:** Deep Learning & Cloud for Data Science  
+  - 💼 **Open to:** Data Analysis, Science roles & collaborations  
+  - 📫 **Reach me at:** abdelrahmenelashry@email.com 
+
+</div>
 
 
 ## 🛠️ Tech Stack
